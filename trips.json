@@ -1,0 +1,197 @@
+[
+  {
+    "id": "sihanoukville",
+    "title": "Sihanoukville Investor Meetings",
+    "hero": {
+      "subtitle": "Coastal Investment Opportunities",
+      "duration": "2 Days",
+      "locations": "2 Locations",
+      "meetings": "4 Investors",
+      "gradient": "from-blue-500 to-cyan-500"
+    },
+    "overview": "Our Sihanoukville expedition focused on establishing strategic partnerships with potential investors interested in our coastal expansion initiative. The trip centered around two prime locations: the Sokha Beach Resort conference center and the Sihanoukville Special Economic Zone headquarters. These venues provided the perfect backdrop for discussing investment opportunities in Cambodia's rapidly developing coastal region.",
+    "locations": [
+      {
+        "name": "Sokha Beach Resort - Conference Center",
+        "desc": "Premium beachfront venue for investor presentations and networking sessions"
+      },
+      {
+        "name": "Sihanoukville SEZ Headquarters",
+        "desc": "Strategic business district location for formal investment discussions"
+      }
+    ],
+    "highlights": [
+      "Secured preliminary agreements with two major investment firms for $2.5M funding commitment",
+      "Established partnerships with local business development council for regulatory support",
+      "Conducted market analysis of the coastal technology sector with regional experts",
+      "Negotiated favorable terms for potential office space in the special economic zone"
+    ],
+    "expenses": [
+      {"item": "Accommodation (2 nights)", "amount": "$480"},
+      {"item": "Transportation", "amount": "$320"},
+      {"item": "Meals & Entertainment", "amount": "$450"},
+      {"item": "Conference Materials", "amount": "$150"},
+      {"item": "Miscellaneous", "amount": "$100"},
+      {"item": "Total", "amount": "$1,500", "total": true}
+    ],
+    "conclusion": "The Sihanoukville investor meetings exceeded expectations, establishing crucial financial partnerships that will accelerate our coastal expansion plans. The strategic location choices proved instrumental in creating a professional yet relaxed atmosphere that facilitated open discussions about investment opportunities. The preliminary funding commitments secured during this trip provide a solid foundation for our next phase of growth in the Cambodian market. Moving forward, we will maintain regular communication with these investors and prepare detailed business plans for the formal investment rounds scheduled for next quarter."
+  },
+  {
+    "id": "siemreap",
+    "title": "Siem Reap Expansion Survey",
+    "hero": {
+      "subtitle": "Cultural Heritage & Business Hub",
+      "duration": "5 Days",
+      "locations": "5 Locations",
+      "meetings": "15 Meetings",
+      "gradient": "from-amber-500 to-orange-500"
+    },
+    "overview": "Our comprehensive five-day survey of Siem Reap focused on identifying optimal locations for establishing our regional headquarters in Cambodia's cultural and tourism capital. The expedition covered strategic locations from the central business district to emerging commercial zones, evaluating each site's potential for supporting our expansion goals while considering factors such as infrastructure, accessibility, and local market dynamics.",
+    "locations": [
+      {
+        "name": "Siem Reap Central Business District",
+        "desc": "Prime commercial zone near Pub Street with excellent connectivity and tourist foot traffic"
+      },
+      {
+        "name": "Airport Road Commercial Complex",
+        "desc": "Modern business facilities with proximity to international airport and major hotels"
+      },
+      {
+        "name": "Wat Bo Village Technology Park",
+        "desc": "Emerging tech hub with government incentives and modern infrastructure development"
+      },
+      {
+        "name": "Angkor Business Center",
+        "desc": "Established commercial district with strong local business community and cultural significance"
+      },
+      {
+        "name": "Siem Reap Riverside Development Zone",
+        "desc": "New waterfront development with premium office spaces and recreational amenities"
+      }
+    ],
+    "highlights": [
+      "Identified Wat Bo Village Technology Park as the optimal location due to government incentives and modern infrastructure",
+      "Established relationships with local government officials and secured preliminary development approvals",
+      "Conducted workforce assessment and identified strong local talent pool in technology and tourism sectors",
+      "Negotiated competitive lease terms for 5,000 sq ft facility with expansion options",
+      "Explored partnership opportunities with Angkor University for internship and recruitment programs"
+    ],
+    "expenses": [
+      {"item": "Accommodation (5 nights)", "amount": "$750"},
+      {"item": "Transportation & Tours", "amount": "$480"},
+      {"item": "Meals & Business Dinners", "amount": "$650"},
+      {"item": "Site Survey Materials", "amount": "$200"},
+      {"item": "Legal & Consultation Fees", "amount": "$350"},
+      {"item": "Miscellaneous", "amount": "$120"},
+      {"item": "Total", "amount": "$2,550", "total": true}
+    ],
+    "conclusion": "The Siem Reap expansion survey successfully identified Wat Bo Village Technology Park as our preferred location for establishing operations in Cambodia's cultural capital. The combination of government incentives, modern infrastructure, and access to both local and international talent makes this location ideal for our regional expansion strategy. The relationships established with local stakeholders and the preliminary approvals obtained during this trip have significantly accelerated our timeline for establishing operations. We are now prepared to move forward with lease negotiations and begin the process of setting up our Siem Reap office."
+  },
+  {
+    "id": "mondulkiri",
+    "title": "Mondulkiri Staff Interviews",
+    "hero": {
+      "subtitle": "Cultural Insights & Business Development",
+      "duration": "3 Days",
+      "locations": "2 Locations",
+      "meetings": "10 Interviews",
+      "gradient": "from-green-500 to-teal-500"
+    },
+    "overview": "The Mondulkiri staff interviews aimed to gather valuable insights and personal experiences from our retired personnel, focusing on the challenges and opportunities encountered during their tenure. This initiative is part of our commitment to preserving institutional knowledge and leveraging it for future growth. The interviews were conducted in a narrative format, allowing participants to share their stories in a comfortable and open environment.",
+    "locations": [
+      {
+        "name": "Mondulkiri Eco-Lodge",
+        "desc": "Scenic lodge with modern amenities, ideal for relaxed interviews"
+      },
+      {
+        "name": "Sen Monorom City Center",
+        "desc": "Convenient location with access to local attractions and dining"
+      }
+    ],
+    "highlights": [
+      "Collected comprehensive feedback on company policies and culture",
+      "Identified key areas for improvement in employee onboarding process",
+      "Gained insights into the effectiveness of current training programs",
+      "Explored potential mentorship opportunities between retired and current staff"
+    ],
+    "expenses": [
+      {"item": "Accommodation (3 nights)", "amount": "$540"},
+      {"item": "Transportation", "amount": "$360"},
+      {"item": "Meals & Entertainment", "amount": "$420"},
+      {"item": "Interview Materials", "amount": "$180"},
+      {"item": "Miscellaneous", "amount": "$90"},
+      {"item": "Total", "amount": "$1,680", "total": true}
+    ],
+    "conclusion": "The Mondulkiri staff interviews provided invaluable qualitative data that will inform our future HR policies and training programs. The candid feedback and suggestions from our retired staff highlighted the importance of mentorship and continuous improvement in our organizational processes. We aim to integrate these insights into actionable strategies that enhance our workplace culture and employee satisfaction. Follow-up meetings will be scheduled with department heads to discuss the implementation of these strategies and monitor progress."
+  },
+  {
+    "id": "thailand",
+    "title": "Thailand AI Conference",
+    "hero": {
+      "subtitle": "AI Innovations & Networking",
+      "duration": "3 Days",
+      "locations": "1 Location",
+      "meetings": "20+ Speakers",
+      "gradient": "from-purple-500 to-pink-500"
+    },
+    "overview": "The Thailand AI Conference brought together leading experts and innovators in the field of artificial intelligence to explore the latest trends, technologies, and applications. The conference featured keynote speeches, panel discussions, and networking sessions designed to foster collaboration and knowledge sharing among participants. Our delegation had the opportunity to engage with AI thought leaders and explore potential partnerships and investment opportunities in the rapidly evolving AI landscape.",
+    "locations": [
+      {
+        "name": "Bangkok International Convention Centre",
+        "desc": "State-of-the-art venue for global tech conferences and exhibitions"
+      }
+    ],
+    "highlights": [
+      "Attended keynote speeches by industry leaders in AI",
+      "Participated in panel discussions on AI ethics and business applications",
+      "Networked with potential partners and investors",
+      "Explored collaboration opportunities with regional tech firms"
+    ],
+    "expenses": [
+      {"item": "Accommodation (3 nights)", "amount": "$600"},
+      {"item": "Transportation", "amount": "$400"},
+      {"item": "Meals & Entertainment", "amount": "$500"},
+      {"item": "Conference Materials", "amount": "$200"},
+      {"item": "Miscellaneous", "amount": "$150"},
+      {"item": "Total", "amount": "$1,850", "total": true}
+    ],
+    "conclusion": "The Thailand AI Conference was an invaluable experience, providing deep insights into the future of artificial intelligence and its impact on various industries. The knowledge gained and connections made during this conference will significantly inform our AI strategy and initiatives. We are now exploring potential collaborations with several conference participants and will follow up on the leads and contacts established during the event. A detailed report on potential AI projects and partnerships will be prepared and presented to the executive team for review and approval."
+  },
+  {
+    "id": "singapore",
+    "title": "Singapore Business Research",
+    "hero": {
+      "subtitle": "Market Trends & Consumer Insights",
+      "duration": "2 Days",
+      "locations": "2 Locations",
+      "meetings": "8 Interviews",
+      "gradient": "from-red-500 to-rose-500"
+    },
+    "overview": "The Singapore business research trip focused on analyzing current market trends and consumer behavior in the digital marketing sector. Our team conducted in-depth interviews and attended presentations by leading marketing professionals. The findings from this trip will inform our upcoming social media campaigns and business development strategies in the region.",
+    "locations": [
+      {
+        "name": "Marina Bay Financial Centre",
+        "desc": "Premier business district with access to top marketing agencies"
+      },
+      {
+        "name": "Orchard Road Business Hub",
+        "desc": "Central location for retail and consumer insights research"
+      }
+    ],
+    "highlights": [
+      "Conducted interviews with leading marketing professionals",
+      "Attended presentations on digital marketing trends",
+      "Analyzed consumer behavior data from local agencies",
+      "Identified new opportunities for social media campaigns"
+    ],
+    "expenses": [
+      {"item": "Accommodation (2 nights)", "amount": "$700"},
+      {"item": "Transportation", "amount": "$350"},
+      {"item": "Meals & Entertainment", "amount": "$400"},
+      {"item": "Research Materials", "amount": "$180"},
+      {"item": "Miscellaneous", "amount": "$90"},
+      {"item": "Total", "amount": "$1,720", "total": true}
+    ],
+    "conclusion": "The Singapore business research trip provided actionable insights into the latest trends in digital marketing and consumer engagement. The knowledge gained will be instrumental in shaping our marketing strategies and expanding our presence in the region. We will continue to build relationships with local agencies and monitor market developments to stay ahead of industry trends."
+  }
+]
