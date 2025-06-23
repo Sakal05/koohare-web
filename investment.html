@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Investment | BluePeak Dynamics</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            animation: {
+              "fade-in": "fadeIn 0.6s ease-in-out",
+              "slide-up": "slideUp 0.8s ease-out",
+            },
+            keyframes: {
+              fadeIn: {
+                "0%": { opacity: "0" },
+                "100%": { opacity: "1" },
+              },
+              slideUp: {
+                "0%": { transform: "translateY(30px)", opacity: "0" },
+                "100%": { transform: "translateY(0)", opacity: "1" },
+              },
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      .bg-hero-invest {
+        background-image: url("https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1500&q=80");
+        background-size: cover;
+        background-position: center;
+      }
+    </style>
+  </head>
+  <body
+    class="bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100 min-h-screen font-sans"
+  >
+    <!-- Navigation -->
+    <header
+      class="bg-white/90 backdrop-blur-md shadow-lg sticky top-0 z-50 border-b border-gray-200"
+    >
+      <div
+        class="max-w-7xl mx-auto px-4 flex justify-between items-center h-20"
+      >
+        <div class="flex items-center gap-4">
+          <img
+            src="https://placehold.co/64x64/3b82f6/fff?text=BPD"
+            alt="BluePeak Dynamics Logo"
+            class="rounded-full shadow-lg"
+          />
+          <span
+            class="text-2xl font-extrabold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent"
+            >BluePeak Dynamics</span
+          >
+        </div>
+        <nav class="flex gap-8">
+          <a
+            href="company.html"
+            class="text-gray-700 hover:text-blue-600 font-semibold"
+            >Home</a
+          >
+          <a
+            href="about.html"
+            class="text-gray-700 hover:text-blue-600 font-semibold"
+            >About Us</a
+          >
+          <a
+            href="services.html"
+            class="text-gray-700 hover:text-blue-600 font-semibold"
+            >Services</a
+          >
+          <a
+            href="locations.html"
+            class="text-gray-700 hover:text-blue-600 font-semibold"
+            >Locations</a
+          >
+          <a
+            href="investment.html"
+            class="text-blue-700 font-semibold border-b-2 border-blue-600"
+            >Investment</a
+          >
+          <a
+            href="contact.html"
+            class="text-gray-700 hover:text-blue-600 font-semibold"
+            >Contact</a
+          >
+        </nav>
+      </div>
+    </header>
+    <!-- Hero -->
+    <section
+      class="relative py-20 text-white text-center bg-hero-invest animate-fade-in"
+    >
+      <div class="relative z-10 max-w-3xl mx-auto">
+        <h2 class="text-5xl font-extrabold mb-4 drop-shadow-lg">
+          Invest in the Future with BluePeak Dynamics
+        </h2>
+        <p class="text-xl mb-6 drop-shadow">
+          Driving innovation, growth, and sustainable impact across Asia and
+          beyond.
+        </p>
+        <div class="flex flex-wrap justify-center gap-6 mt-8">
+          <div class="bg-white/20 rounded-xl px-8 py-4 text-center">
+            <div class="text-2xl font-bold">$50M+</div>
+            <div class="text-blue-100">Capital Raised</div>
+          </div>
+          <div class="bg-white/20 rounded-xl px-8 py-4 text-center">
+            <div class="text-2xl font-bold">30+</div>
+            <div class="text-blue-100">Countries Served</div>
+          </div>
+          <div class="bg-white/20 rounded-xl px-8 py-4 text-center">
+            <div class="text-2xl font-bold">13 Years</div>
+            <div class="text-blue-100">Track Record</div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Investment Highlights -->
+    <section class="max-w-5xl mx-auto py-16 px-4">
+      <h3 class="text-3xl font-bold text-center mb-10 text-blue-700">
+        Why Invest in BluePeak?
+      </h3>
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="bg-white rounded-xl shadow-lg p-6 text-center">
+          <img
+            src="https://placehold.co/100x100/3b82f6/fff?text=Growth"
+            alt="Growth"
+            class="mx-auto mb-4 rounded-lg"
+          />
+          <h4 class="font-bold text-lg mb-2">Proven Growth</h4>
+          <p class="text-gray-600">
+            Consistent double-digit revenue growth and expanding client base in
+            emerging markets.
+          </p>
+        </div>
+        <div class="bg-white rounded-xl shadow-lg p-6 text-center">
+          <img
+            src="https://placehold.co/100x100/0ea5e9/fff?text=ESG"
+            alt="ESG"
+            class="mx-auto mb-4 rounded-lg"
+          />
+          <h4 class="font-bold text-lg mb-2">ESG & Impact</h4>
+          <p class="text-gray-600">
+            Strong commitment to environmental, social, and governance (ESG)
+            principles and sustainable business.
+          </p>
+        </div>
+        <div class="bg-white rounded-xl shadow-lg p-6 text-center">
+          <img
+            src="https://placehold.co/100x100/6366f1/fff?text=Tech"
+            alt="Tech"
+            class="mx-auto mb-4 rounded-lg"
+          />
+          <h4 class="font-bold text-lg mb-2">Tech Leadership</h4>
+          <p class="text-gray-600">
+            Award-winning innovation in AI, cloud, and digital transformation
+            solutions.
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- Financials & Reports -->
+    <section class="bg-white py-16">
+      <div class="max-w-5xl mx-auto px-4">
+        <h3 class="text-3xl font-bold text-center mb-10 text-blue-700">
+          Financials & Reports
+        </h3>
+        <div class="grid md:grid-cols-2 gap-8">
+          <div
+            class="bg-gradient-to-br from-blue-100 to-blue-200 rounded-xl shadow-lg p-6"
+          >
+            <h4 class="font-bold text-lg mb-2">Annual Reports</h4>
+            <ul class="text-blue-700 list-disc list-inside">
+              <li>
+                <a href="#" class="underline">2024 Annual Report (PDF)</a>
+              </li>
+              <li>
+                <a href="#" class="underline">2023 Annual Report (PDF)</a>
+              </li>
+              <li>
+                <a href="#" class="underline">2022 Annual Report (PDF)</a>
+              </li>
+            </ul>
+          </div>
+          <div
+            class="bg-gradient-to-br from-blue-100 to-blue-200 rounded-xl shadow-lg p-6"
+          >
+            <h4 class="font-bold text-lg mb-2">Investor Presentations</h4>
+            <ul class="text-blue-700 list-disc list-inside">
+              <li><a href="#" class="underline">Q1 2025 Investor Deck</a></li>
+              <li><a href="#" class="underline">2024 Strategy Overview</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Investment Opportunities -->
+    <section class="max-w-5xl mx-auto py-16 px-4">
+      <h3 class="text-3xl font-bold text-center mb-10 text-blue-700">
+        Opportunities
+      </h3>
+      <div class="grid md:grid-cols-2 gap-8">
+        <div class="bg-white rounded-xl shadow-lg p-6">
+          <h4 class="font-bold text-lg mb-2">Direct Equity</h4>
+          <p class="text-gray-600">
+            Join as a strategic partner or institutional investor in our next
+            growth phase.
+          </p>
+        </div>
+        <div class="bg-white rounded-xl shadow-lg p-6">
+          <h4 class="font-bold text-lg mb-2">Joint Ventures</h4>
+          <p class="text-gray-600">
+            Collaborate on new ventures in technology, sustainability, and
+            regional expansion.
+          </p>
+        </div>
+        <div class="bg-white rounded-xl shadow-lg p-6">
+          <h4 class="font-bold text-lg mb-2">Impact Funds</h4>
+          <p class="text-gray-600">
+            Invest in our ESG and social impact initiatives for measurable,
+            positive change.
+          </p>
+        </div>
+        <div class="bg-white rounded-xl shadow-lg p-6">
+          <h4 class="font-bold text-lg mb-2">Startup Incubation</h4>
+          <p class="text-gray-600">
+            Support and co-invest in our innovation lab and startup accelerator
+            programs.
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- Contact for Investors -->
+    <section class="bg-gradient-to-r from-blue-50 to-indigo-100 py-16">
+      <div class="max-w-3xl mx-auto px-4 text-center">
+        <h3 class="text-3xl font-bold mb-6 text-blue-700">
+          Contact Investor Relations
+        </h3>
+        <p class="mb-8 text-gray-700">
+          For investment inquiries, partnership proposals, or to request more
+          information, please contact our Investor Relations team.
+        </p>
+        <form
+          class="bg-white rounded-xl shadow-lg p-8 flex flex-col gap-4 max-w-xl mx-auto"
+        >
+          <input
+            type="text"
+            placeholder="Your Name"
+            class="border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400"
+          />
+          <input
+            type="email"
+            placeholder="Your Email"
+            class="border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400"
+          />
+          <input
+            type="text"
+            placeholder="Organization (optional)"
+            class="border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400"
+          />
+          <textarea
+            placeholder="Your Message"
+            rows="4"
+            class="border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400"
+          ></textarea>
+          <button
+            type="submit"
+            class="bg-blue-600 text-white font-semibold rounded-md px-6 py-2 hover:bg-blue-700 transition-all"
+          >
+            Send Inquiry
+          </button>
+        </form>
+      </div>
+    </section>
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-200">
+      <div
+        class="max-w-7xl mx-auto py-6 px-4 flex flex-col md:flex-row justify-between items-center"
+      >
+        <p class="text-sm text-gray-500">
+          © 2025 BluePeak Dynamics. All rights reserved.
+        </p>
+        <div class="mt-4 md:mt-0">
+          <a href="#" class="text-sm text-gray-500 hover:text-blue-600"
+            >Privacy Policy</a
+          >
+          <span class="mx-2">|</span>
+          <a href="#" class="text-sm text-gray-500 hover:text-blue-600"
+            >Terms of Service</a
+          >
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

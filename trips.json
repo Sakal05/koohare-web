@@ -46,6 +46,7 @@
       "meetings": "15 Meetings",
       "gradient": "from-amber-500 to-orange-500"
     },
+    "image": "images/sihanoukville.jpg",
     "overview": "Our comprehensive five-day survey of Siem Reap focused on identifying optimal locations for establishing our regional headquarters in Cambodia's cultural and tourism capital. The expedition covered strategic locations from the central business district to emerging commercial zones, evaluating each site's potential for supporting our expansion goals while considering factors such as infrastructure, accessibility, and local market dynamics.",
     "locations": [
       {
@@ -97,6 +98,7 @@
       "meetings": "10 Interviews",
       "gradient": "from-green-500 to-teal-500"
     },
+    "image": "images/mondulkiri.jpg",
     "overview": "The Mondulkiri staff interviews aimed to gather valuable insights and personal experiences from our retired personnel, focusing on the challenges and opportunities encountered during their tenure. This initiative is part of our commitment to preserving institutional knowledge and leveraging it for future growth. The interviews were conducted in a narrative format, allowing participants to share their stories in a comfortable and open environment.",
     "locations": [
       {
@@ -134,6 +136,7 @@
       "meetings": "20+ Speakers",
       "gradient": "from-purple-500 to-pink-500"
     },
+    "image": "images/thailand.jpg",
     "overview": "The Thailand AI Conference brought together leading experts and innovators in the field of artificial intelligence to explore the latest trends, technologies, and applications. The conference featured keynote speeches, panel discussions, and networking sessions designed to foster collaboration and knowledge sharing among participants. Our delegation had the opportunity to engage with AI thought leaders and explore potential partnerships and investment opportunities in the rapidly evolving AI landscape.",
     "locations": [
       {
@@ -167,6 +170,7 @@
       "meetings": "8 Interviews",
       "gradient": "from-red-500 to-rose-500"
     },
+    "image": "images/singapore.jpg",
     "overview": "The Singapore business research trip focused on analyzing current market trends and consumer behavior in the digital marketing sector. Our team conducted in-depth interviews and attended presentations by leading marketing professionals. The findings from this trip will inform our upcoming social media campaigns and business development strategies in the region.",
     "locations": [
       {
